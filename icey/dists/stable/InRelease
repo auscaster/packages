@@ -8,17 +8,17 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: icey-server APT repository
-Date: Thu, 08 Oct 2026 08:34:21 +0000
+Date: Thu, 29 Oct 2026 09:24:13 +0000
 MD5Sum:
- 6278a97e0ddcd7e94b49161f368ef641 612 main/binary-amd64/Packages
- 0fff603949ec487d1af2258f14a84f6c 450 main/binary-amd64/Packages.gz
+ 5ca32172207e603d4e5db6fb99613f66 620 main/binary-amd64/Packages
+ db8b223b42d8cf1748525c238415c549 450 main/binary-amd64/Packages.gz
 SHA256:
- 37a40f350b3e5fa1ef537d2340086e8feda1d5068fa6bfbe15b642017cc25417 612 main/binary-amd64/Packages
- c1bc5cf67e7a34b943f1988f08214f4f6059d9b936a48b8e896ed2a157b41a22 450 main/binary-amd64/Packages.gz
+ 42863dd2118ce565dbb12659e806f0aa3bbc5089b5d3fe6a4237ed5dc7179a9b 620 main/binary-amd64/Packages
+ 8647532c3dcbfafbdcb3a36db730301a1f8fa9381142d7ff9c4c3d886e84c87f 450 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSoBKAMaNOfvwrXHlulHOK6yNLFxwUCasdVjgAKCRClHOK6yNLF
-xwJSAP9Y13geWgKklCkhw/oPYc80+AtRTGlCk/N1GGeU41g3EgEAwQ8w6DFITVgQ
-iDJ3kHOTVj3BPcc5AGHb7bBxXaWQogk=
-=Rsf9
+iHUEARYKAB0WIQSoBKAMaNOfvwrXHlulHOK6yNLFxwUCauMQvgAKCRClHOK6yNLF
+xwRKAP9bEyUSy1ca1Wedy4CuuDs4vS698rYXtBeG+h246Yv4XgD+K5sqFUt8qZml
+jLgZgqDPY3H5J8GN9hj1VktKydkRggc=
+=O9yA
 -----END PGP SIGNATURE-----

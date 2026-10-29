@@ -1,16 +1,16 @@
 Package: icey-server
-Version: 0.2.4
+Version: 0.2.5
 Architecture: amd64
-Maintainer: 0state <oss@0state.com>
+Maintainer: auscaster <hi@auscaster.com>
 Depends: ffmpeg, libssl3, libc6, libstdc++6
-Filename: pool/main/i/icey-server/icey-server_0.2.4_amd64.deb
-Size: 1423858
-MD5sum: 7f74e5ebcf888b9b6ffc0e575df2d57a
-SHA1: b1b02c0591f4256df611df6db7537113b997a2de
-SHA256: f6f5c88465e383b72599f6a7d61865c6efb5fa6625b9e3444fd602db3aae020e
+Filename: pool/main/i/icey-server/icey-server_0.2.5_amd64.deb
+Size: 1424640
+MD5sum: cbad0940091bc3b5dd877e13dbda52e8
+SHA1: 7f89c44ac1ec526d3b2f541fadeada49cd23842f
+SHA256: 3ee40e2db1be7efcbf8459744a48cdb17d4181365ef2d6528e1efe0fe949ca89
 Section: net
 Priority: optional
-Homepage: https://0state.com/icey/
+Homepage: https://auscaster.com/icey/
 Description: Self-hosted source-to-browser server built on icey
  Single C++ binary for WebRTC media streaming, Symple signalling, TURN relay,
  and the bundled browser UI.
