@@ -4,16 +4,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Icey APT Repository</title>
+    <link rel="canonical" href="https://apt.auscaster.com/icey/">
   </head>
   <body>
     <main>
       <h1>Icey APT Repository</h1>
       <p>This path hosts the static APT repository for <code>icey-server</code>.</p>
-      <p>Canonical base URL: <code>https://apt.0state.com/icey</code></p>
+      <p>Canonical base URL: <code>https://apt.auscaster.com/icey</code></p>
       <p>Install the signing key:</p>
-      <pre><code>curl -fsSL https://apt.0state.com/icey/icey-archive-keyring.gpg | sudo tee /usr/share/keyrings/icey-archive-keyring.gpg >/dev/null</code></pre>
+      <pre><code>curl -fsSL https://apt.auscaster.com/icey/icey-archive-keyring.gpg | sudo tee /usr/share/keyrings/icey-archive-keyring.gpg >/dev/null</code></pre>
       <p>Add the repository:</p>
-      <pre><code>curl -fsSL https://apt.0state.com/icey/icey-server.list | sudo tee /etc/apt/sources.list.d/icey-server.list >/dev/null
+      <pre><code>curl -fsSL https://apt.auscaster.com/icey/icey-server.list | sudo tee /etc/apt/sources.list.d/icey-server.list >/dev/null
 sudo apt update</code></pre>
       <ul>
         <li><a href="./icey-server.list">icey-server.list</a></li>
