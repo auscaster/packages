@@ -1,13 +1,13 @@
 Package: icey-server
-Version: 0.2.5
+Version: 0.2.6
 Architecture: amd64
 Maintainer: auscaster <hi@auscaster.com>
 Depends: ffmpeg, libssl3, libc6, libstdc++6
-Filename: pool/main/i/icey-server/icey-server_0.2.5_amd64.deb
-Size: 1424640
-MD5sum: cbad0940091bc3b5dd877e13dbda52e8
-SHA1: 7f89c44ac1ec526d3b2f541fadeada49cd23842f
-SHA256: 3ee40e2db1be7efcbf8459744a48cdb17d4181365ef2d6528e1efe0fe949ca89
+Filename: pool/main/i/icey-server/icey-server_0.2.6_amd64.deb
+Size: 1404138
+MD5sum: 3700f45cd582d17779171faf7aebc4e6
+SHA1: 9cca2a49cfa83988e3d644841bea241ee0ce749b
+SHA256: d8ddd83902465c4a7cd40b550e9288d3921310951f412be1741f37337d58d94e
 Section: net
 Priority: optional
 Homepage: https://auscaster.com/icey/
